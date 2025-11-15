@@ -8,6 +8,13 @@ Vibe Writing은 AI와 대화(음성/텍스트)하며 생각을 정리하면, 그
 
 - `landing-page/`: GitHub Pages 랜딩페이지
 
+## 배포
+
+랜딩페이지는 GitHub Actions를 통해 자동으로 배포됩니다.
+
+- 배포 URL: https://silverjen.github.io/vibecoding/
+- 워크플로: `.github/workflows/deploy.yml`
+
 ## 라이선스
 
 MIT
